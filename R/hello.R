@@ -15,4 +15,5 @@
 require(FIRSTapiR)
 example_FMS <- function() {
   print("Hello, world!")
+  print("Hello, world!")
 }
